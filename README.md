@@ -20,7 +20,7 @@ I am a Computer Science Engineering student and Full Stack Developer focused on 
 - 🛠️ **Current Focus:** Full-stack development, scalable backend architecture & security
 - 🚀 **Building:** [LifeOS](https://github.com/megabyte44/LifeOS) & [MaterialHub](https://github.com/megabyte44/MaterialHub)
 - 💬 **Ask me about:** React, Node.js, Python, System Architecture, Databases
-- 📫 **Reach me at:** [LinkedIn](https://linkedin.com/in/) • [Email](mailto:)
+- 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/punithnaidu) • [Email](mailto:punithmedaramitta@gmail.com)
 
 ---
 
@@ -69,10 +69,9 @@ I am a Computer Science Engineering student and Full Stack Developer focused on 
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
-| **LifeOS** | Full-stack productivity & life-management platform designed to centralize routines, tasks, and personal workflows. | React, Node.js, MongoDB, Express | [Repo](https://github.com/megabyte44/LifeOS) |
-| **MaterialHub** | Academic resource platform facilitating organized course material access and sharing for students. | Next.js, Express, PostgreSQL | [Repo](https://github.com/megabyte44/MaterialHub) |
-| **DocMax** | High-performance Python toolkit for automated document processing, parsing, and batch transformations. | Python | [Repo](https://github.com/megabyte44/DocMax) |
-| **MERN Real-Time Chat** | Responsive instant-messaging platform featuring live bi-directional communication and secure authentication. | React, Node.js, Socket.io, JWT, MongoDB | [Repo](https://github.com/megabyte44/chat-app) |
+| **LifeOS** | Full-stack productivity & life-management platform designed to centralize routines, tasks, and personal workflows. | React, Node.js, MongoDB, Express | [Repo](https://github.com/megabyte44/LifeOS-smart) |
+| **MaterialHub** | Academic resource platform facilitating organized course material access and sharing for students. | Next.js, Express, PostgreSQL | [Repo](https:sastranet.sastra.edu/materialhub) |
+| **DocMax** | High-performance Python toolkit for automated document processing, parsing, and batch transformations. | Python | [Repo](https://github.com/megabyte44/Docmax) |
 
 ---
 
@@ -96,8 +95,8 @@ I am a Computer Science Engineering student and Full Stack Developer focused on 
 
 [![GitHub](https://img.shields.io/badge/GitHub-megabyte44-181717?style=flat-square&logo=github)](https://github.com/megabyte44)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Punith_Naidu-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Punith_Naidu-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/punithnaidu)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail)](mailto:)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail)](mailto:punithmedaramitta@gmail.com)
 
 </div>
