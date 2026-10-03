@@ -4,7 +4,7 @@
 
 **B.Tech CSE · Full Stack Developer**
 
-*Building practical software at the intersection of backend systems, cybersecurity, and scalable architecture.*
+*Building practical software at the intersection of backend systems, AI , and scalable architecture.*
 
 [![Profile Views](https://komarev.com/ghpvc/?username=megabyte44&color=0d1117&style=flat-square&label=Profile+Views)](https://github.com/megabyte44)
 
